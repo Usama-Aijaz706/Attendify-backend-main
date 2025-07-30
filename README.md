@@ -437,7 +437,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Support
 
-- **📧 Email**: [your-email@example.com]
+- **📧 Email**: [usamaaijaz706@gmail.com]
 - **🐛 Issues**: [GitHub Issues](https://github.com/Usama-Aijaz706/Attendify-backend-main/issues)
 - **📖 Documentation**: [API Docs](http://localhost:8000/docs)
 
