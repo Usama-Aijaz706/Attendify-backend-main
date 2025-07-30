@@ -391,9 +391,6 @@ app.add_middleware(
 | Issue | Solution |
 |-------|----------|
 | **dlib build fails** | Use Docker or upgrade to Premium SKU on Azure |
-| **MongoDB connection error** | Check connection string and network access |
-| **Face recognition not working** | Ensure clear, well-lit images |
-| **Webcam not detected** | Check camera permissions and drivers |
 
 ### 🔧 Debug Mode
 
