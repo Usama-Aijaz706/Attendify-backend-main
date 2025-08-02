@@ -11,7 +11,7 @@ import io
 import base64
 
 # Configuration
-BACKEND_URL = "https://attendify-webapp.azurewebsites.net:8181"  # Your Azure Web App URL
+BACKEND_URL = "https://attendify-webapp.azurewebsites.net"  # Your Azure Web App URL
 
 # Page configuration
 st.set_page_config(
