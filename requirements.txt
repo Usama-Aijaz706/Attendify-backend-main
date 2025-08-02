@@ -15,4 +15,6 @@ pandas
 python-dotenv
 streamlit
 requests
-httpx 
+httpx
+plotly
+pillow 
